@@ -3,3 +3,4 @@ __pycache__
 .vscode
 migrations
 db.sqlite3
+django.txt
